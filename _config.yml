@@ -14,9 +14,24 @@ markdown: kramdown
 
 # Sass
 sass:
-    style: compressed
+  style: compressed
 
 # Navigation
 nav:
-    - name: "yuz.me"
-      href: "//yuz.me"
+  - name: "yuz.me"
+    href: "//yuz.me"
+
+# Scopes
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
