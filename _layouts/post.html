@@ -1,15 +1,11 @@
 ---
 layout: default
 ---
-<header class="masthead">
-  <h1 class="masthead-title--small">
-    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+<section class='post'>
+  <h1 class="upcase">
+    <div class='date'>{{ page.date | date_to_string }}</div>
+    {{ page.title }}
   </h1>
-</header>      
-<div class="content post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
-  </div>
   {{ content }}
-</div>
+  {% include signoff.html %}
+</section>

@@ -1,0 +1,12 @@
+<div class="block">
+    <a href="{{ site.url }}" class="main">Home</a>
+    {% for my_page in site.pages %}
+      {% if my_page.title %}
+        <a href="{{ my_page.url | prepend: site.baseurl }}" class="main">{{ my_page.title }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% for link in site.links %}
+      <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a>
+    {% endfor %}
+</div>

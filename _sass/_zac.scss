@@ -1,15 +1,6 @@
-/*
- * test
- *
-
-.masthead-title a {
-  letter-spacing: 1px;
-  font-weight: 100;
-  font-size: 2.5rem;
+#container .block a.main {
+  background-image: none;
+  &:hover {
+    background-image: url(/images/line.png);
+  }
 }
-
-.masthead .masthead-nav a {
-  text-transform: capitalize;
-}
-
-*/

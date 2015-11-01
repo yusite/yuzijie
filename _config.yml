@@ -1,13 +1,12 @@
-# Site settings
-name: "Zac"
-title: "不忘初心"
-email: blog@yuz.me
-description: > # this means to ignore newlines until "baseurl:"
-  于子杰与自己的对话。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yuzijie.com" # the base hostname & protocol for your site
-twitter_username: yuzijie
-github_username:  yuzijie
+# Basic settings
+title:            "不忘初心"
+description:      "于子杰和自己的对话。"
+baseurl:          "" # Subpath of your site
+url:              "http://yuzijie.com" # Site url.
+twitter_username: "yuzijie"
+github_username:  "yuzijie"
+email:            blog@yuz.me
+author:           "Zac YU"
 
 # Build settings
 markdown: kramdown
@@ -17,21 +16,19 @@ sass:
   style: compressed
 
 # Navigation
-# nav:
-#   - name: "yuz.me"
-#     href: "//yuz.me"
+links:
+  - name:         Email
+    url:          mailto:blog@yuz.me
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/yuzijie
+    external:     true
 
 # Scopes
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: "page"
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "post"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      is_post: true

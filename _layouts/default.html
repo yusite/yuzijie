@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css' />
+    <link href='/css/main.css' rel='stylesheet' type='text/css' />
   </head>
-<body>
-  <div class="container">
-    {{ content }}
-  </div>
-</body>
+  <body>
+    {% include header.html %}
+    <div id='container'>
+      {% include links.html %}
+      {% if page.is_post %}{% include pages.html %}{% endif %}
+      <div class="content">
+        {{ content }}
+      </div>
+      {% if page.is_post %}{% include links.html %}{% endif %}
+    </div>
+    {% include footer.html %}
+  </body>
 </html>
