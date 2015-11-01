@@ -1,3 +1,10 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
 /**
  * Reset some basic elements
  */
@@ -80,16 +87,18 @@ li {
 
 /**
  * Headings
- */
+ *
+
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
 }
-
+*/
 
 
 /**
  * Links
- */
+ *
+
 a {
     color: $brand-color;
     text-decoration: none;
@@ -103,12 +112,13 @@ a {
         text-decoration: underline;
     }
 }
-
+*/
 
 
 /**
  * Blockquotes
- */
+ *
+
 blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
@@ -121,12 +131,13 @@ blockquote {
         margin-bottom: 0;
     }
 }
-
+*/
 
 
 /**
  * Code formatting
- */
+ *
+
 pre,
 code {
     font-size: 15px;
@@ -149,7 +160,7 @@ pre {
         padding-left: 0;
     }
 }
-
+*/
 
 
 /**
