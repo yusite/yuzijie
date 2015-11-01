@@ -17,9 +17,9 @@ sass:
   style: compressed
 
 # Navigation
-nav:
-  - name: "yuz.me"
-    href: "//yuz.me"
+# nav:
+#   - name: "yuz.me"
+#     href: "//yuz.me"
 
 # Scopes
 # defaults:
