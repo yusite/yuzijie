@@ -3,17 +3,18 @@
 ---
 @charset "utf-8";
 
-
 // Our variables
-$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+$base-font-family: opensans, "Helvetica Neue", Helvetica, Arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+/*
+ * Use media queries like this:
+@include media-query($on-palm) {
+    .wrapper {
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+ */
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
@@ -22,7 +23,9 @@ $base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "Hiragino Sa
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+    "fonts",
     "style",
     "responsive",
     "syntax",
-    "zac";
+    "zac"
+;
