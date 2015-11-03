@@ -13,6 +13,11 @@
 
 ul.posts li {
   font-size: 14px;
+  font-weight: 600;
+
+  a {
+    color: lighten($link-color, 8%)
+  }
 }
 
 footer {
