@@ -30,8 +30,9 @@ if [ -d "$ROOT_DIR/_posts" ]; then
 	echo "categories:" >> $FILE
 	echo "---" >> $FILE
 	echo "" >> $FILE
-	echo "Now, start writing your blog at:"
-	echo "$FILE"
+	echo "Now, you can start writing your blog."
+	ls $FILE | pbcopy
+	echo "File path is in your clipboard."
 else
 	echo "Is your ROOT_DIR correct? abort."
 fi
