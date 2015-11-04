@@ -18,3 +18,13 @@ ul.posts li {
 footer {
   margin-top: 30px;
 }
+
+section.post blockquote:before, section > p blockquote:before {
+  content: "“";
+  font-family: georgia, serif;
+  font-size: 50px;
+  position: absolute;
+  top: 33px;
+  left: 30px;
+  color: #d0dfda;
+}
