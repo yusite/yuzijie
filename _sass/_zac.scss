@@ -28,3 +28,8 @@ section.post blockquote:before, section > p blockquote:before {
   left: 30px;
   color: #d0dfda;
 }
+
+section.post {
+  h2 { margin: 1.4em 0 1em 0; }
+  h3 { margin: 1.2em 0 0.8em 0; }
+}

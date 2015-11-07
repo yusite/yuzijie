@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思维碎片"
+title: "什么是微积分，我们为什么要学习它？"
 date: 2015-11-04 09:54:43 +0100
 categories:
 ---

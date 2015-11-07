@@ -21,7 +21,7 @@ if [ -d "$ROOT_DIR/_posts" ]; then
 	done
 
 	touch $FILE
-	echo "Enter blog title, e.g. Pushing Forward"
+	echo "Enter blog title, e.g. 向前推进"
 	read title
 	echo "---" > $FILE
 	echo "layout: post" >> $FILE
