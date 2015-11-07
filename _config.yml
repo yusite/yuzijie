@@ -17,12 +17,22 @@ sass:
 
 # Navigation
 links:
+  - name:         Home
+    url:          /
+
+  - name:         About
+    url:          /about
+
   - name:         Email
     url:          mailto:blog@yuz.me
     external:     true
-  - name:         GitHub
-    url:          http://github.com/yuzijie
-    external:     true
+
+  - name:         Websites
+    url:          /websites
+
+  # - name:         GitHub
+  #   url:          http://github.com/yuzijie
+  #   external:     true
 
 # Scopes
 defaults:
