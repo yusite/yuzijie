@@ -9,8 +9,6 @@ categories: How-to
 
 Chris 还说，在完全没有基础的情况下，浸入式学习会使人产生恐惧，反而不利于语言的学习。有点像一个不会游泳的人一下子被推入水中，并不能使这个人很快学会游泳。
 
-下面是 5 条原则和 7 个行动：
-
 ## Five Principles of Rapid Language Acquisition
 
 ### 1. Focus on language content that is relevant to you
@@ -47,7 +45,7 @@ Talking takes muscle.
 
 ### 5. Psycho-physiological state matters!
 
-心理因素也很重要。生气，焦急没有耐心的你是不容易学好的。高兴，放松，alpha brain state 更容易学得好。
+心理因素也很重要。生气，焦急没有耐心的你是不容易学好的。高兴，放松更容易学得好。
 
 You must learn to tolerate ambiguity. 你必须学会包容歧义、模糊、模棱两可。学习过程中永远会遇到有些听得懂，有些听不懂的情况。
 
