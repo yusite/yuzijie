@@ -13,10 +13,29 @@
 
 ul.posts li {
   font-size: 14px;
+  margin-bottom: 22px;
+
+  &:last-child {
+    margin-bottom: 10px;
+  }
 }
 
-footer {
-  margin-top: 30px;
+section.post, section > p {
+  line-height: 1.75em;
+}
+
+section.post {
+  h2 {
+    margin: 1.5em 0 1.3em 0;
+  }
+  h3 {
+    margin: 1.4em 0 1.1em 0;
+    font-size: 1.25em;
+  }
+  h4 {
+    margin: 1.2em 0 1em 0;
+    font-size: 1.05em;
+  }
 }
 
 section.post blockquote:before, section > p blockquote:before {
@@ -29,7 +48,6 @@ section.post blockquote:before, section > p blockquote:before {
   color: #d0dfda;
 }
 
-section.post {
-  h2 { margin: 1.4em 0 1em 0; }
-  h3 { margin: 1.2em 0 0.8em 0; }
+footer {
+  margin-top: 30px;
 }
