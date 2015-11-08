@@ -25,7 +25,7 @@ We master tools by using tools, we learn tools fastest when they are relevant. �
 
 从第一天开始就用它去交流！
 
-### 3. When you first *Understand the message*, you will unconsciously *acquire the language*
+### 3. When you first Understand the message, you will unconsciously acquire the language
 
 如果你能够先明白说话人的意思，学会怎么去说就变得水到渠成了。明白别人的意思不一定需要每个字都看得懂，通过理解上下文、观察手势和常理推测也可以明白。
 
@@ -99,6 +99,6 @@ You must learn to tolerate ambiguity. 你必须学会包容歧义、模糊、模
 
 体会说外语的感觉，感知声音、语气，观察他们说话时如何使用他们的肌肉，脸上的表情。
 
-### 7. *Direct Connect* to mental images
+### 7. Direct Connect to mental images
 
 用自己的想象力，把词语和图像、声音、故事联系在一起。
