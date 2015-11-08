@@ -26,15 +26,19 @@ section.post, section > p {
 
 section.post {
   h2 {
-    margin: 1.5em 0 1.3em 0;
+    margin: 1.6em 0 1.4em 0;
+    font-size: 1.45em;
   }
   h3 {
-    margin: 1.4em 0 1.1em 0;
+    margin: 1.5em 0 1.3em 0;
     font-size: 1.25em;
   }
   h4 {
-    margin: 1.2em 0 1em 0;
     font-size: 1.05em;
+  }
+  & > p, & > ol, & > ul {
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 }
 
