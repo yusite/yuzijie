@@ -25,7 +25,7 @@ We master tools by using tools, we learn tools fastest when they are relevant. �
 
 从第一天开始就用它去交流！
 
-### 3. When you first Understand the message, you will unconsciously acquire the language
+### 3. When you first understand the message, you will unconsciously acquire the language
 
 如果你能够先明白说话人的意思，学会怎么去说就变得水到渠成了。明白别人的意思不一定需要每个字都看得懂，通过理解上下文、观察手势和常理推测也可以明白。
 
@@ -35,7 +35,7 @@ We master tools by using tools, we learn tools fastest when they are relevant. �
 
 通过实验发现，使用理解式学习的学生成绩普遍要比依靠学习语法的学生成绩要好。
 
-### 4. Physiological training
+### 4. Language learning is physiological training
 
 语言的学习的重点不是在获取新知识，而是在于身体的训练。
 
@@ -63,7 +63,7 @@ You must learn to tolerate ambiguity. 你必须学会包容歧义、模糊、模
 
 10 个动词加上 10 个名词加上 10 个形容词可以组合出 1000 种不同的短语。尝试组合现有的知识去表达更多的意思。Be creative!
 
-### 4. Focus on the Core
+### 4. Focus on the CORE
 
 20% 的单词有 80% 的使用频率，3000 的词汇量就可以覆盖 98% 的使用场景。
 
@@ -99,6 +99,6 @@ You must learn to tolerate ambiguity. 你必须学会包容歧义、模糊、模
 
 体会说外语的感觉，感知声音、语气，观察他们说话时如何使用他们的肌肉，脸上的表情。
 
-### 7. Direct Connect to mental images
+### 7. Direct connect to mental images
 
 用自己的想象力，把词语和图像、声音、故事联系在一起。
