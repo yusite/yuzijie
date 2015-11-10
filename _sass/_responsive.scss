@@ -10,11 +10,11 @@
     display: none;
   }
   body #container .links, body #container .content {
-    padding: 15px;
+    padding: $post-margin-480;
   }
   body #container .links section.post,
   body #container .content section.post {
-    margin: 0 -15px;
+    margin: 0 $post-margin-480 * -1;
   }
   body #container .links section.post > p,
   body #container .links section.post h1,
@@ -32,13 +32,13 @@
   body #container .content section.post .signoff,
   body #container .content section.post blockquote,
   body #container .content section.post .highlight {
-    padding: 0 15px;
+    padding: 0 $post-margin-480;
   }
   body #container .links section.post > ul,
   body #container .links section.post > ol,
   body #container .content section.post > ul,
   body #container .content section.post > ol {
-    padding: 0 30px;
+    padding: 0 $post-margin-480 * 2;
   }
   ul.posts li {
     text-align: center;
