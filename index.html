@@ -3,9 +3,13 @@ layout: default
 ---
 
 <ul class="posts">
+  <li class="phone-hide">
+    <small class="datetime muted">mm/dd/yy</small>
+    <span class="muted">Contents</span>
+  </li>
   {% for post in site.posts %}
   <li>
-    <small class="datetime muted">{{ post.date | date_to_string }}</small>
+    <small class="datetime muted">{{ post.date | date: "%-m/%-d/%y" }}</small>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endfor %}
