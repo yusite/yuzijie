@@ -35,6 +35,11 @@ section.post {
   h1 {
     margin-top: 20px;
     font-size: 1.6em;
+    &.page-title {
+      margin-bottom: 50px;
+      font-size: 1.9em;
+      font-weight: 300;
+    }
   }
   h2 {
     margin: 1.6em 0 1.5em;
