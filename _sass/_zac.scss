@@ -1,48 +1,60 @@
-#container .block a.main {
-  background-image: none;
-  &:hover {
-    background-image: url(/images/line.png);
+#container {
+  border: none;
+  border-radius: 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#container .block {
+  padding: 25px 40px 20px;
+  border: none;
+  background-color: #FCFCFC;
+  a.main {
+    background-image: none;
+    &:hover {
+      background-image: url(/images/line.png);
+    }
   }
 }
-
 #go-back-home {
   color: #303030;
   font-weight: bold;
   font-size: 1.6rem;
 }
-
 ul.posts li {
   font-size: 14px;
   margin-bottom: 22px;
-
   &:last-child {
     margin-bottom: 10px;
   }
 }
-
-section.post, section > p {
+section.post,
+section > p {
   line-height: 1.7em;
 }
-
 section.post {
+  h1 {
+    text-align: left;
+    font-size: 1.6em;
+  }
   h2 {
-    margin: 1.7em 0 1.6em 0;
+    margin: 1.7em 0 1.6em;
     font-size: 1.45em;
   }
   h3 {
-    margin: 1.6em 0 1.5em 0;
+    margin: 1.6em 0 1.5em;
     font-size: 1.25em;
   }
   h4 {
     font-size: 1.05em;
   }
-  & > p, & > ol, & > ul {
+  & > p,
+  & > ol,
+  & > ul {
     margin-top: 18px;
     margin-bottom: 18px;
   }
 }
-
-section.post blockquote:before, section > p blockquote:before {
+section.post blockquote:before,
+section > p blockquote:before {
   content: "“";
   font-family: georgia, serif;
   font-size: 50px;
@@ -51,7 +63,6 @@ section.post blockquote:before, section > p blockquote:before {
   left: 30px;
   color: #d0dfda;
 }
-
 footer {
   margin-top: 30px;
 }
