@@ -16,6 +16,8 @@ permalink: /about/
 
 直到我明白了，真正适合自己的方法是自己创造出来的，没有人可以给你。脚踏实地的把一件事情做成，才是真正可以改变我的生活的良方。这也是我维护这个博客的主要原因。通过书写，学会如何组织语言，如何排版，如何修图，更重要的是如何提问，如何解决问题以及如何生活。
 
-This blog will never end, I promise.
+<br>
 
 于子杰<br><span class="muted" style="font-size:smaller;">Nov 14, 2015</span>
+
+This blog will never end,<br>I promise.
