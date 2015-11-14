@@ -45,6 +45,9 @@
     text-align: center;
     margin-top: 6px;
     margin-bottom: 22px;
+    &:last-child {
+      margin-bottom: 15px;
+    }
   }
   section.post blockquote:before,
   section > p blockquote:before {
