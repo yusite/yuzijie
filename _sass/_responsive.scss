@@ -69,6 +69,13 @@
     display: none;
   }
   #container .block.top {
-    padding: 35px 40px 0px;
+    padding: 35px 40px 0;
+  }
+  section.post {
+    h1.page-title {
+      font-size: 1.75em;
+      margin-top: 10px;
+      margin-bottom: 40px;
+    }
   }
 }
