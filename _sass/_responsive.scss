@@ -9,7 +9,8 @@
   body #container #ind-linkedin {
     display: none;
   }
-  body #container .links, body #container .content {
+  body #container .links,
+  body #container .content {
     padding: $post-margin-480;
   }
   body #container .links section.post,
@@ -43,7 +44,7 @@
   ul.posts li {
     text-align: center;
     margin-top: 6px;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
   section.post blockquote:before,
   section > p blockquote:before {
@@ -60,5 +61,8 @@
   }
   #go-back-home {
     font-size: 1.4rem;
+  }
+  .phone-hide {
+    display: none;
   }
 }
