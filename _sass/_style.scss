@@ -1,6 +1,5 @@
 h1, h2, h3, h4, h5, strong {
   font-weight: 600;
-  color: #111;
 }
 
 html, body {
@@ -9,7 +8,7 @@ html, body {
 
 body {
   background: #f9f9f9;
-  color: #333;
+  color: $base-font-color;
   font-family: $base-font-family;
   font-weight: 400;
   font-size: 13px;
