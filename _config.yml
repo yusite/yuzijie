@@ -20,15 +20,18 @@ links:
   - name:         Home
     url:          /
 
+  - name:         Topics
+    url:          /topics
+
   - name:         About
     url:          /about
 
-  - name:         Email
-    url:          mailto:blog@yuz.me
-    external:     true
-
   - name:         Websites
     url:          /websites
+
+  # - name:         Email
+  #   url:          mailto:blog@yuz.me
+  #   external:     true
 
   # - name:         GitHub
   #   url:          http://github.com/yuzijie
