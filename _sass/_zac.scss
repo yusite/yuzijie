@@ -45,20 +45,15 @@ section.post {
   h2 {
     margin: 2em 0 1.2em;
     font-size: 1.5em;
+    font-weight: normal;
   }
   h3 {
-    margin: 1.8em 0 1em;
+    margin: 1.7em 0 1em;
     font-size: 1.3em;
   }
   h4 {
     margin: 1em 0;
     font-size: 1.1em;
-  }
-  h2,
-  h3,
-  h4 {
-    font-family: $title-font-family;
-    color: #444444;
   }
   & > p,
   & > ol,
