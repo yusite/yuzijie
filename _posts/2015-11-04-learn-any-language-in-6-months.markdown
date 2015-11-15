@@ -9,11 +9,13 @@ categories: How-to
 
 Chris 还说，在完全没有基础的情况下，浸入式学习会使人产生恐惧，反而不利于语言的学习。有点像一个不会游泳的人一下子被推入水中，并不能使这个人很快学会游泳。
 
-## Five Principles of Rapid Language Acquisition
+## 快速习得语言的五个原则
 
 ### 1. Focus on language content that is relevant to you
 
-**学习语言里面和你有关的部分。**人们更加关注和自己切身利益相关的事情。语言里面和你有关的部分更能激起你对学习该语言的渴望，从而学习的更快。不要担心这种挑食的方法不好。等你有了一定基础之后，其他你不关心的部分也会学得更快。
+首先去学习语言里面和你有关的部分。
+
+人们更加关注和自己切身利益相关的事情。语言里面和你有关的部分更能激起你对学习该语言的渴望，从而学习的更快。不要担心这种挑食的方法不好。等你有了一定基础之后，其他你不关心的部分也会学得更快。
 
 Information that helps achieve personal goals has relevance. 和成就你的目标相符的部分往往就是你应该最先去学的部分。
 
@@ -49,7 +51,7 @@ Talking takes muscle.
 
 You must learn to tolerate ambiguity. 你必须学会包容歧义、模糊、模棱两可。学习过程中永远会遇到有些听得懂，有些听不懂的情况。
 
-## Seven Actions for rapid language acquisition
+## 快速习得语言的七个行动
 
 ### 1. Listen A LOT
 
