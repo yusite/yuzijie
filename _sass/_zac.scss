@@ -54,6 +54,12 @@ section.post {
     margin: 1em 0;
     font-size: 1.1em;
   }
+  h2,
+  h3,
+  h4 {
+    font-family: $title-font-family;
+    color: #444444;
+  }
   & > p,
   & > ol,
   & > ul {
