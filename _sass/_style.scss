@@ -1,5 +1,6 @@
 h1, h2, h3, h4, h5, strong {
-  font-weight: 700;
+  font-weight: 600;
+  color: #111;
 }
 
 html, body {
@@ -8,7 +9,7 @@ html, body {
 
 body {
   background: #f9f9f9;
-  color: #303030;
+  color: #333;
   font-family: $base-font-family;
   font-weight: 400;
   font-size: 13px;
@@ -230,7 +231,7 @@ a.big-button, .as-link.big-button {
   padding: 8px 17px;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 600;
   display: block;
   text-align: center;
   border-width: 0;

@@ -19,7 +19,7 @@
   padding: 40px 40px 15px;
 }
 #go-back-home {
-  color: #303030;
+  color: $base-font-color;
   font-weight: bold;
   font-size: 1.6rem;
 }
@@ -50,6 +50,7 @@ section.post {
   h3 {
     margin: 1.7em 0 1em;
     font-size: 1.3em;
+    font-weight: normal;
   }
   h4 {
     margin: 1em 0;
