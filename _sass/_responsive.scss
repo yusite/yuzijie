@@ -69,7 +69,10 @@
     & > ol,
     & > ul,
     & > blockquote {
+      margin-top: 16px;
+      margin-bottom: 16px;
       font-size: 14px;
+      line-height: 1.7em;
     }
   }
   section.post blockquote:before,
