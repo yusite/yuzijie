@@ -5,12 +5,12 @@ is_home: true
 
 <ul class="posts">
   <li>
-    <small class="datetime muted">y/m/d</small>
+    <small class="datetime muted">m/d</small>
     <span class="muted">Contents</span>
   </li>
   {% for post in site.posts %}
   <li>
-    <small class="datetime muted">{{ post.date | date: "%y/%-m/%-d" }}</small>
+    <small class="datetime muted">{{ post.date | date: "%-m/%-d" }}</small>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
   {% endfor %}

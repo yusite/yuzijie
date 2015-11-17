@@ -26,8 +26,8 @@ links:
   - name:         About
     url:          /about
 
-  - name:         Websites
-    url:          /websites
+  - name:         Links
+    url:          /links
 
   # - name:         Email
   #   url:          mailto:blog@yuz.me
