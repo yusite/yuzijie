@@ -26,8 +26,8 @@ links:
   - name:         关于本站
     url:          /about
 
-  - name:         链接收集
-    url:          /links
+  # - name:         链接收集
+  #   url:          /links
 
   # - name:         Email
   #   url:          mailto:blog@yuz.me
