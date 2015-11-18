@@ -17,16 +17,16 @@ sass:
 
 # Navigation
 links:
-  - name:         Home
+  - name:         最近更新
     url:          /
 
-  - name:         Topics
+  - name:         话题分类
     url:          /topics
 
-  - name:         About
+  - name:         关于本站
     url:          /about
 
-  - name:         Links
+  - name:         链接分享
     url:          /links
 
   # - name:         Email

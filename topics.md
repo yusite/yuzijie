@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topics
+title: 话题分类
 permalink: /topics/
 ---
 

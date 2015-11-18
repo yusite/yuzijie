@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: 链接分享
 permalink: /links/
 ---
 
