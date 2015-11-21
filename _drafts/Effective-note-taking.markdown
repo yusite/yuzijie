@@ -105,3 +105,31 @@ keywords: "及时，自己的话，提出问题，寻找答案，找出联系"
 
 * make notes about the item and your response
 * Engaging in pre-writing activities like: brainstorming, organizing points and notes, and outlining
+
+
+# Increase reading comprehension
+https://www.youtube.com/watch?v=WgbG5lo5Usg
+
+1. 手中保持一支笔，随时记录
+2. 先读完一段，读懂大意再记录，不要切断思路
+3. 大声读有助于理解
+4. 读的时候在重要的内容旁边做标记，便于之后进行记录和回顾
+5. 解释给别人听，测试自己的理解程度
+6. 快速预览目录，只读自己感兴趣的部分，不必把整本书都通读一遍
+7. 注意最后总结的词语
+8. 找到句子里面的关键字，重点标出来
+9. 把不认识的词记录下来
+10. 读《How to read a book》这本书
+
+# Reading skills that work - for tests and in class
+https://www.youtube.com/watch?v=QgqLyAfUsZE
+
+1. 读书前问自己 W5 问题：What When Who Where How
+    - 这样提醒你的大脑你要发掘什么内容
+2. 把 Introduction 拆解开
+    - 找到 topic, main ideas, opinions
+    - 帮助你快速找到你想要的信息
+3. 总结每段时，思考两件事
+    - 这一章说了什么
+    - 这一章作为整本书的角色是什么？（提出新观点，证明一件事……）
+4. 读书时可以用手指作为引导
