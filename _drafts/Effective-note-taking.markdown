@@ -99,3 +99,9 @@ keywords: "及时，自己的话，提出问题，寻找答案，找出联系"
 * 小分支用于细节和例子
 * 可以用注释进行总结和解释
 * 注明出处
+
+
+[13 WAYS TO ENGAGE RELUCTANT WRITERS] (http://www.spencerideas.org/2012/09/13-ways-to-engage-reluctant-writers.html)
+
+* make notes about the item and your response
+* Engaging in pre-writing activities like: brainstorming, organizing points and notes, and outlining
